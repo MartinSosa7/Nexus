@@ -26,3 +26,4 @@ jobs:
         dockerfile: Dockerfile
         push: true
         tags: martinsosa7/test:latest
+        no-cache: true
